@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**4** solved · 4 problems · 0 labs · 0 math
+**5** solved · 5 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2026-11-11 | [solution](problems/0070-calculate-image-brightness) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-11-11 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-08-20 | [solution](problems/0001-matrix-vector-dot-product) |
 | [SELECT all rows](https://www.deep-ml.com/problems/1101) | easy | 2026-11-11 | [solution](problems/1101-select-all-rows) |
